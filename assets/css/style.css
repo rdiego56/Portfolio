@@ -42,15 +42,36 @@ body{
     color: blueviolet;
 }
 
-.Bio{
+.body{
     width: 50%;
 
 }
 
 .About-me{
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     padding-right: 100px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
+}
+
+.sidebar {
+    height: 100%;
+    width: 150px;
+    position: absolute;
+    left: 0;
+    top: 10;
+    padding-top: 40px;
+    background-color: lightblue;
+    }
+    
+    .sidebar div {
+    padding: 8px;
+    font-size: 24px;
+    display: block;
+    }
+    
+    .body-text {
+    margin-left: 150px;
+    font-size: 18px;
 }
