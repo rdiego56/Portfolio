@@ -46,10 +46,47 @@
     width: 100%;
     background-size: cover;
     background-position:center;
-    background-image: ;
+    background-image: url("../images/IMG_1534.webp");
+
 }
 
-.sidebar{
-    border: black;
-    float: left;
+.bio{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
+
+.bio h2{
+    font-size: 30px;
+}
+.biop p{
+    font-size: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+section {
+    padding: 2em;
+}
+section li {
+    flex-basis: calc(25% - 1em);
+    margin-right: 1em;
+    margin-bottom: 1em;
+  }
+  
+  section a {
+    display: block;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  section img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom
+  
