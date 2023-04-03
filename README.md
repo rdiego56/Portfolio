@@ -15,5 +15,8 @@ At the top of the Portfolio, one is introduced with my name followed by a struct
 * More stuff will be fixed and switched to my portfolio as I progress with future work.
 
 # Live Website
-[LiveWEbPage] (https://rdiego56.github.io/Portfolio/)
+[LiveWEbPage](https://rdiego56.github.io/Portfolio/)
+
+# GitHub repository for chalange 2
+[GitHubRepo](https://github.com/rdiego56/Portfolio)
 
