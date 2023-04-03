@@ -1,6 +1,6 @@
 # Portfolio
 
-<img src= "Portfolio-pic">
+![Portfolio-pic](https://user-images.githubusercontent.com/128023854/229429620-85a8b653-6731-4da1-b2dd-f72c99634581.png)
 
 At the top of the Portfolio, one is introduced with my name followed by a structure of the portfolio
 
