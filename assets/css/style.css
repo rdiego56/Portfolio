@@ -7,10 +7,10 @@
 /* start of header for css */
 .header {
     display: flex;
-    justify-content: left;
-    color: ;
-
+    justify-content: left; 
 }
+
+
 /* end of header */
 
 /* style for nav bar */
@@ -43,17 +43,19 @@
     box-shadow: 10px white;
 
 }
+
 /* end of style for nav bar */
-.background{
+.background {
     height: 500px;
     width: 100%;
     background-size: cover;
-    background-position:center;
+    background-position: center;
     background-image: url("../images/Me.png");
 
 }
+
 /* image of me for main backgorund */
-.bio{
+.bio {
     padding: 20px;
     display: flex;
     justify-content: center;
@@ -61,10 +63,11 @@
 
 }
 
-.bio h2{
+.bio h2 {
     font-size: 30px;
 }
-.biop p{
+
+.biop p {
     font-size: 20px;
     padding: 20px;
     margin-bottom: 20px;
@@ -73,81 +76,80 @@
     display: flex;
 
 }
+
 /* start of main projec timage */
 .SJ {
     text-align: center;
     max-width: 100%;
-  }
-  
-  .SJ img {
+}
+
+.SJ img {
     width: 60%;
     height: 60;
     margin: auto;
-  }
- 
+}
+
 .SJ img:hover {
     background-color: aliceblue;
-  }
-  
+}
+
 .blur-on-hover:hover {
     filter: blur(5px);
 }
- /* end of main project image  */
 
- /* start of subprojects */
+/* end of main project image  */
+
+/* start of subprojects */
 .sub-project {
     display: flex;
     justify-content: space-between;
     align-items: center;
-  }
-  
-  .project-item {
+}
+
+.project-item {
     flex-basis: 30%;
     text-align: center;
-  }
-  
-  .project-item img {
+}
+
+.project-item img {
     max-width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
-  }
+}
+
 /* end of subprojects */
 
 /* start of header */
-  .footer {
+.footer {
     background-color: rgba(0, 0, 0, .5);
     color: white;
     padding: 20px;
     text-align: 20px;
-  }
+}
 
-  .footer h2{
+.footer h2 {
     margin-top: 0;
 
-  }
+}
 
-  .footer ul{
+.footer ul {
     list-style: none;
     margin: 0;
     padding: 0;
-  }
-  
-  .footer ul li{
-    margin-bottom: 10px;
-  }
+}
 
-  .footer ul li a{
+.footer ul li {
+    margin-bottom: 10px;
+}
+
+.footer ul li a {
     color: white;
     text-decoration: none;
-  }
+}
 
-  .footer ul li a:hover{
+.footer ul li a:hover {
     background-color: white;
     color: black;
     box-shadow: 10px white;
-  }
-
-
-
-  
+}
