@@ -1,6 +1,6 @@
 # Portfolio
 
-<img src= "Portfolio-pic">
+![Portfolio-pic](https://user-images.githubusercontent.com/128023854/229429620-85a8b653-6731-4da1-b2dd-f72c99634581.png)
 
 At the top of the Portfolio, one is introduced with my name followed by a structure of the portfolio
 
@@ -14,11 +14,9 @@ At the top of the Portfolio, one is introduced with my name followed by a struct
 
 * More stuff will be fixed and switched to my portfolio as I progress with future work.
 
-# Live website 
-[LiveWebPage] (https://rdiego56.github.io/Portfolio/)
+# Live Website
+[LiveWebPage](https://rdiego56.github.io/Portfolio/)
 
 # GitHub repository for chalange 2
 [GitHubRepo](https://github.com/rdiego56/Portfolio)
-
-
 
